@@ -54,7 +54,7 @@
 </p>
 
 
-<p>
+<p align="center">
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jouxingngo&show_icons=true&locale=en&theme=dark" alt="jouxingngo" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jouxingngo&theme=dark" alt="jouxingngo" />
 </p>
