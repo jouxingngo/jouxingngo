@@ -22,8 +22,9 @@
 </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
   </a>
@@ -53,6 +54,8 @@
   </a> 
 </p>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
 <p align="center">
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jouxingngo&show_icons=true&locale=en&theme=dark" alt="jouxingngo" width="400" height="200" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jouxingngo&theme=dark" alt="jouxingngo" width="420" height="200" />
