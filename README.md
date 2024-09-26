@@ -25,29 +25,22 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=bootstrap,css,git,html,javascript,laravel,mysql,php,tailwind,vscode" />
-
+<img src="https://skillicons.dev/icons?i=bootstrap,css,git,html,javascript,laravel" />
+   <br/>
+<img src="https://skillicons.dev/icons?i=mysql,php,tailwind,vscode" />
 </p>
 
 <hr/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
-<img src="https://raw.githubusercontent.com/jouxingngo/jouxingngo/output/snake.svg" alt="Snake animation" />
-
-
-  
-  <br/><br/><br/>
+   <img src="https://raw.githubusercontent.com/jouxingngo/jouxingngo/output/snake.svg" alt="Snake animation" />
 </div>
 
 <hr/>
 
-
-
-
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
+<br/>
 <p align="center">
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jouxingngo&show_icons=true&locale=en&theme=dark" alt="jouxingngo" width="400" height="200" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jouxingngo&theme=dark" alt="jouxingngo" width="420" height="200" />
