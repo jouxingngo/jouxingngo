@@ -42,11 +42,14 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
 <img src="https://raw.githubusercontent.com/jouxingngo/jouxingngo/output/snake.svg" alt="Snake animation" />
+
+
   
   <br/><br/><br/>
 </div>
 
 <hr/>
+
 
 
 
