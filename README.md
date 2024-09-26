@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Laravel, React**
 
-- 👨‍💻 All of my projects are available at [github.com/jouxingngo](github.com/jouxingngo)
+- 👨‍💻 All of my projects are available at (github.com/jouxingngo)
 
 - 📫 How to reach me **jouxing04@gmail.com**
 
