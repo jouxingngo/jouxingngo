@@ -45,7 +45,6 @@
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jouxingngo&show_icons=true&locale=en&theme=dark" alt="jouxingngo" width="400" height="200" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jouxingngo&theme=dark" alt="jouxingngo" width="420" height="200" />
 </p>
-<br>
 
 
 
