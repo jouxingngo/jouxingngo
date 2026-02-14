@@ -2,17 +2,28 @@
    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jouxing+Ngo!;" />
 </h1>  
 
-<h3 align="center">Aspiring Web & Mobile Developer | Learning Laravel, Go, React, and Flutter</h3>
+<h3 align="center">Future Lele Tycoon 🐟 | Side Quest: Becoming a Better Person</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jouxingngo&label=Profile%20views&color=0e75b6&style=flat" alt="jouxingngo" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=jouxingngo&label=People%20Stalking%20Me&color=0e75b6&style=flat" alt="jouxingngo" /> 
+</p>
 
-- 🌱 I’m currently learning **Laravel, React**
+- 🌱 Currently focused on becoming a wise and genuinely good person.
 
-- 👨‍💻 All of my projects are available at [github.com/jouxingngo](https://github.com/jouxingngo)
+- 👨‍💻 Code is just a tool.  
+  Less ego, more impact.
 
-- 📫 How to reach me **jouxing04@gmail.com**
+- 🐟 Ultimate goals:
+  Build a legendary lele empire.  
+  Become a good man who helps others.
 
-- ⚡ Fun fact **🦇I'm Batman**
+  Because Himmel the Hero would do the same.
+
+- 📫 Reach me before enlightenment: **jouxing04@gmail.com**
+
+- ⚡ Fun fact: I fix life bugs before production bugs.  
+  🦇 I'm Batman.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
