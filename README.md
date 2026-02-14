@@ -10,14 +10,13 @@
 
 - 🌱 Currently focused on becoming a wise and genuinely good person.
 
-- 👨‍💻 Code is just a tool.  
-  Less ego, more impact.
+- 👨‍💻 I build with purpose, not for applause.
 
-- 🐟 Ultimate goals:
-  Build a legendary lele empire.  
+- 🐟 Build a lele empire.
   Become a good man who helps others.
 
-  Because Himmel the Hero would do the same.
+  <q>Because Himmel the Hero would have done the same.</q>
+
 
 - 📫 Reach me before enlightenment: **jouxing04@gmail.com**
 
