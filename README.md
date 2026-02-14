@@ -15,7 +15,11 @@
 - 🐟 Build a lele empire.
   Become a good man who helps others.
 
-  <q>Because Himmel the Hero would have done the same.</q>
+  <blockquote>
+  <p>Because Himmel the Hero would have done the same.</p>
+  <footer>— Himmel the Hero</footer>
+</blockquote>
+
 
 
 - 📫 Reach me before enlightenment: **jouxing04@gmail.com**
